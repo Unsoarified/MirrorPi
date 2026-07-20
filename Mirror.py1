@@ -40,7 +40,7 @@ try:
 
 def FetchWeatherData():
     base_url = 'https://api.openweathermap.org/data/2.5/weather?'
-    apikey = "5eb8c035f9c01d1959d69a4ed2438666"
+    apikey = " (Hidden) "
     city = 'Lawrenceville'
 
     url = base_url + 'appid=' + apikey + '&q=' + city
